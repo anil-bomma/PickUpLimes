@@ -30,7 +30,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
+![](https://raw.githubusercontent.com/anil-bomma/PickUpLimes/master/Images/logo.png)
 
 ## Roles:
 
