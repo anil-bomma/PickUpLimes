@@ -1,32 +1,32 @@
 <p>PROJECT CHARTER</p>
-<p>Date: 05/23/2020</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepared By: Soujanya Janapatla</strong></p>
-<table>
+<table style="width: 618px;">
 <tbody>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Project Title</strong>: Pick Up Limes | Nourish the Cells &amp; the Soul |</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="590">
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Budget Information: </strong></p>
-<p>The budget has been allocated about $927,500 &nbsp;for this project including inside work costs, infrastructure costs, and software costs. An extra of $200,000 will be given if further required.</p>
+<p>Budget has been allocated about $927,500 &nbsp;for this project including inside work costs, infrastructure costs and software costs. An extra of $200,000 will be given if further required.</p>
 <p><strong>&nbsp;</strong></p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Project Manager:</strong></p>
+<p>&nbsp;</p>
 <p>Name: Soujanya Janapatla,</p>
 <p>phone: +1 (660) 528-0836,</p>
 <p>e-mail: <a href="mailto:S538418@nwmissouri.edu">S538418@nwmissouri.edu</a></p>
@@ -34,7 +34,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Project Objectives: </strong></p>
 <p>&nbsp;</p>
@@ -43,7 +43,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Success Criteria:</strong></p>
 <p><strong>&nbsp;</strong></p>
@@ -52,7 +52,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Approach:</strong></p>
 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requirements should be gathered from the client.</p>
@@ -64,87 +64,87 @@
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>Roles and Responsibilities</strong></p>
 </td>
 </tr>
 <tr>
-<td width="187">
+<td style="width: 187px;">
 <p><strong>Name and Signature</strong></p>
 </td>
-<td width="108">
+<td style="width: 108px;">
 <p><strong>Role</strong></p>
 </td>
-<td width="156">
+<td style="width: 156px;">
 <p><strong>Position</strong></p>
 </td>
-<td width="139">
+<td style="width: 139px;">
 <p><strong>Contact Information</strong></p>
 </td>
 </tr>
 <tr>
-<td width="187">
+<td style="width: 187px;">
 <p><strong>Soujanya Janapatla</strong></p>
 </td>
-<td width="108">
+<td style="width: 108px;">
 <p>Developer</p>
 </td>
-<td width="156">
+<td style="width: 156px;">
 <p>Project manager/ web application Developer</p>
 </td>
-<td width="139">
+<td style="width: 139px;">
 <p><strong>+1 (660) 528-0836</strong></p>
 </td>
 </tr>
 <tr>
-<td width="187">
+<td style="width: 187px;">
 <p><strong>Yugandhar Rao Mamidi</strong></p>
 </td>
-<td width="108">
+<td style="width: 108px;">
 <p>Developer</p>
 </td>
-<td width="156">
+<td style="width: 156px;">
 <p>Team Lead/ Backend developer</p>
 </td>
-<td width="139">
+<td style="width: 139px;">
 <p><strong>+1 (419) 315-6033</strong></p>
 </td>
 </tr>
 <tr>
-<td width="187">
+<td style="width: 187px;">
 <p><strong>Anil Bomma</strong></p>
 </td>
-<td width="108">
+<td style="width: 108px;">
 <p>Developer</p>
 </td>
-<td width="156">
+<td style="width: 156px;">
 <p>Content &amp; User Interface Developer</p>
 </td>
-<td width="139">
+<td style="width: 139px;">
 <p><strong>+1 (660) 215-8441</strong></p>
 </td>
 </tr>
 <tr>
-<td width="187">
+<td style="width: 187px;">
 <p><strong>Sowmya Thogiti</strong></p>
 </td>
-<td width="108">
+<td style="width: 108px;">
 <p>Tester</p>
 </td>
-<td width="156">
+<td style="width: 156px;">
 <p>Testing Manager</p>
 </td>
-<td width="139">
+<td style="width: 139px;">
 <p><strong>+1 (660) 853-8360</strong></p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>Sign-off:</strong> (Signatures of all above stakeholders)</p>
 <p>&nbsp;</p>
 <p>Anil Bomma</p>
@@ -154,7 +154,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4" width="590">
+<td style="width: 590px;" colspan="4">
 <p><strong>Comments:</strong> (Handwritten or typed comments from above stakeholders, if applicable)</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
