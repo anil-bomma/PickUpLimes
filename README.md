@@ -1,6 +1,6 @@
 ﻿# Project Title: Pick Up Limes
 
-# Project Description:
+## Project Description:
 
 “Pick up Limes” is an web-application it is all about a nutrition diet, On this site you will find uncomplicated nutrition articles, informative videos, as well as simple and delicious vegan recipes (many are also gluten-free) made with natural ingredients, vegetables, fruits, whole grains, whole-food and healthy fat sources.
 
