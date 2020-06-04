@@ -1,9 +1,6 @@
-#Project Management Plan Version 1.0</p>
-<p>Date: 05/23/2020</p>
-<p>&nbsp;</p>
-<p>Prepared By: Sowmya Thogiti</p>
-<p>&nbsp;</p>
-<p><strong>Project Name: </strong>Pick Up Limes</p>
+# Project Management Plan Version 1.0</p>
+
+## Project Name: Pick Up Limes
 <p>&nbsp;</p>
 <p><strong>Introduction/Overview of Project:</strong></p>
 <p>This article is all about a nutrition diet. By learning more about &ldquo;Pick up Limes&rdquo; you are joining the movement towards better health. On this site you will find uncomplicated nutrition articles, informative videos, as well as simple and delicious vegan recipes (many are also gluten-free) made with natural ingredients, vegetables, fruits, whole grains, whole-food and healthy fat sources. By taking ownership of your life and learning how to love the process, results will surely follow. Let's get started.</p>
