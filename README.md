@@ -35,10 +35,10 @@ https://github.com/anil-bomma/PickUpLimes/blob/master/docs/WBS.md
 ## Roles:
 
 Client – Dr. Aziz Fella (afellah@nwmissouri.edu)<br>
-Project Manager – Soujanya Janapatla (s538418@nwmissouri.edu)<br>
-Team-Lead / Backend Developer – Yugandhar Rao Mamidi (s537159@nwmissouri.edu)<br>
-User Interface Developer – Anil Bomma (s537161@nwmissouri.edu)<br>
-Testing Manager – Sowmya Thogiti (s538096@nwmissouri.edu)<br>
+Project Manager – Soujanya Janapatla (S538418@nwmissouri.edu)<br>
+Team-Lead / Backend Developer – Yugandhar Rao Mamidi (S537159@nwmissouri.edu)<br>
+User Interface Developer – Anil Bomma (S537161@nwmissouri.edu)<br>
+Testing Manager – Sowmya Thogiti (S538096@nwmissouri.edu)<br>
 
 
 ## Project Charter:
