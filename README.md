@@ -38,7 +38,7 @@ Client – Dr. Aziz Fella (afellah@nwmissouri.edu)<br>
 Project manager – Soujanya Janapatla (s538418@nwmissouri.edu)<br>
 Team Lead/ Backend developer – Yugandhar Rao Mamidi (s537159@nwmissouri.edu)<br>
 User Interface developer – Anil Bomma (s537161@nwmissouri.edu)<br>
-Testing Manager – Sowmya Thogiti (s538095@nwmissouri.edu)<br>
+Testing Manager – Sowmya Thogiti (s538096@nwmissouri.edu)<br>
 
 
 ## Project Charter:
