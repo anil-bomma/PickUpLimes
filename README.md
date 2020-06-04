@@ -10,11 +10,11 @@ https://github.com/anil-bomma/PickUpLimes
 
 ## Project Management Plan link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
+https://github.com/anil-bomma/PickUpLimes/blob/master/docs/PMP.md
 
 ## Work Breakdown Structure link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
+https://github.com/anil-bomma/PickUpLimes/blob/master/docs/WBS.md
 
 ## Team Name: Baking Squad
 
