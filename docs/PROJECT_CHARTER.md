@@ -1,16 +1,10 @@
-<p>PROJECT CHARTER</p>
+# PROJECT CHARTER
 <table style="width: 618px;">
 <tbody>
 <tr>
 <td style="width: 590px;" colspan="4">
 <p><strong>&nbsp;</strong></p>
 <p><strong>Project Title</strong>: Pick Up Limes | Nourish the Cells &amp; the Soul |</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td style="width: 590px;" colspan="4">
-<p><strong>&nbsp;</strong></p>
 <p>&nbsp;</p>
 </td>
 </tr>
