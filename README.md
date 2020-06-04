@@ -47,7 +47,7 @@ Our Project charter outlines the purpose, objectives, goals, scope, project budg
 
 ## Project Charter Link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+https://github.com/anil-bomma/PickUpLimes/blob/master/docs/PROJECT_CHARTER.md
 
 ## Team Communication and Participation:
 
