@@ -140,7 +140,6 @@
 <tr>
 <td style="width: 590px;" colspan="4">
 <p><strong>Sign-off:</strong> (Signatures of all above stakeholders)</p>
-<p>&nbsp;</p>
 <p>Anil Bomma</p>
 <p>Soujanya Janapatla</p>
 <p>Sowmya Thogiti</p>
@@ -150,9 +149,6 @@
 <tr>
 <td style="width: 590px;" colspan="4">
 <p><strong>Comments:</strong> (Handwritten or typed comments from above stakeholders, if applicable)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
